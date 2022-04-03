@@ -9,3 +9,6 @@ You must also install and include the SDL2 library along with SDL_Image and SDL_
 Steps for windows: http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php
 
 # Images
+
+# Thanks to
+Lazy Foo' Productions and their tutorials: http://lazyfoo.net/tutorials/SDL/index.php#Hello%20SDL
