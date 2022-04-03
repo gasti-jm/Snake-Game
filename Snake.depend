@@ -1,0 +1,572 @@
+# depslib dependency file v1.0
+1646583941 source:c:\users\gasty\desktop\snake\src\engine.cpp
+	"engine.h"
+
+1646583941 c:\users\gasty\desktop\snake\src\engine.h
+	<iostream>
+	<sstream>
+	<SDL.h>
+	<SDL_ttf.h>
+	"renderer.h"
+	"window.h"
+	"fonts.h"
+	"timer.h"
+	"snake.h"
+	"apple.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\begin_code.h
+
+1608572889 c:\sdl2\x64\include\sdl2\close_code.h
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\sdl2\x64\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\sdl2\x64\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870398 c:\sdl2\sdl2_image\x64\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1646471488 c:\users\gasty\desktop\snake\src\renderer.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1646518110 c:\users\gasty\desktop\snake\src\window.h
+	<SDL.h>
+	"cfg.h"
+	"renderer.h"
+
+1646583919 source:c:\users\gasty\desktop\snake\src\main.cpp
+	<iostream>
+	"engine.h"
+
+1646571317 source:c:\users\gasty\desktop\snake\src\renderer.cpp
+	"renderer.h"
+
+1646567358 source:c:\users\gasty\desktop\snake\src\window.cpp
+	"window.h"
+
+1646570599 source:c:\users\gasty\desktop\snake\src\apple.cpp
+	"apple.h"
+
+1646570599 c:\users\gasty\desktop\snake\src\apple.h
+	<stdlib.h>
+	<time.h>
+	"drawn.h"
+	"cfg.h"
+
+1646570316 c:\users\gasty\desktop\snake\src\drawn.h
+	<SDL.h>
+	"renderer.h"
+
+1646580317 source:c:\users\gasty\desktop\snake\src\snake.cpp
+	"snake.h"
+	<iostream>
+
+1646579097 c:\users\gasty\desktop\snake\src\snake.h
+	"cfg.h"
+	"drawn.h"
+	"timer.h"
+
+1646475199 source:c:\users\gasty\desktop\snake\src\drawn.cpp
+	"drawn.h"
+
+1547322290 c:\sdl2\sdl2_ttf\x64\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1646473527 c:\users\gasty\desktop\snake\src\fonts.h
+	"font_texture.h"
+
+1646529094 source:c:\users\gasty\desktop\snake\src\fonts.cpp
+	"fonts.h"
+
+1646529527 c:\users\gasty\desktop\snake\src\font_texture.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"renderer.h"
+
+1646552990 source:c:\users\gasty\desktop\snake\src\font_texture.cpp
+	"font_texture.h"
+
+1646517565 c:\users\gasty\desktop\snake\src\cfg.h
+
+1646580026 source:c:\users\gasty\desktop\snake\src\cfg.cpp
+	"cfg.h"
+
+1646551825 c:\users\gasty\desktop\snake\src\timer.h
+	<SDL.h>
+
+1646583908 source:c:\users\gasty\desktop\snake\src\timer.cpp
+	"timer.h"
+
+1647750085 source:d:\proyectos\mis proyectos\snake\src\apple.cpp
+	"apple.h"
+
+1646570599 d:\proyectos\mis proyectos\snake\src\apple.h
+	<stdlib.h>
+	<time.h>
+	"drawn.h"
+	"cfg.h"
+
+1647750318 d:\proyectos\mis proyectos\snake\src\drawn.h
+	<SDL.h>
+	"renderer.h"
+
+1646471488 d:\proyectos\mis proyectos\snake\src\renderer.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1649009708 d:\proyectos\mis proyectos\snake\src\cfg.h
+	<SDL.h>
+	<iostream>
+
+1649009706 source:d:\proyectos\mis proyectos\snake\src\cfg.cpp
+	"cfg.h"
+
+1646475199 source:d:\proyectos\mis proyectos\snake\src\drawn.cpp
+	"drawn.h"
+
+1647756692 source:d:\proyectos\mis proyectos\snake\src\engine.cpp
+	"engine.h"
+
+1648752666 d:\proyectos\mis proyectos\snake\src\engine.h
+	<iostream>
+	<sstream>
+	<SDL.h>
+	<SDL_ttf.h>
+	"renderer.h"
+	"window.h"
+	"fonts.h"
+	"timer.h"
+	"gameplay.h"
+
+1646518110 d:\proyectos\mis proyectos\snake\src\window.h
+	<SDL.h>
+	"cfg.h"
+	"renderer.h"
+
+1649009130 d:\proyectos\mis proyectos\snake\src\fonts.h
+	"font_texture.h"
+
+1646529527 d:\proyectos\mis proyectos\snake\src\font_texture.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"renderer.h"
+
+1646551825 d:\proyectos\mis proyectos\snake\src\timer.h
+	<SDL.h>
+
+1647446037 d:\proyectos\mis proyectos\snake\src\snake.h
+	"cfg.h"
+	"drawn.h"
+	"timer.h"
+
+1647931207 source:d:\proyectos\mis proyectos\snake\src\font_texture.cpp
+	"font_texture.h"
+
+1649009130 source:d:\proyectos\mis proyectos\snake\src\fonts.cpp
+	"fonts.h"
+
+1647243297 source:d:\proyectos\mis proyectos\snake\src\main.cpp
+	<iostream>
+	"engine.h"
+
+1646571317 source:d:\proyectos\mis proyectos\snake\src\renderer.cpp
+	"renderer.h"
+
+1649009538 source:d:\proyectos\mis proyectos\snake\src\snake.cpp
+	"snake.h"
+	<iostream>
+
+1649008749 source:d:\proyectos\mis proyectos\snake\src\timer.cpp
+	"timer.h"
+
+1648752666 source:d:\proyectos\mis proyectos\snake\src\window.cpp
+	"window.h"
+
+1648752672 d:\proyectos\mis proyectos\snake\src\gameplay.h
+	<SDL.h>
+	"drawn.h"
+	"fonts.h"
+	"apple.h"
+	"snake.h"
+
+1648752676 source:d:\proyectos\mis proyectos\snake\src\gameplay.cpp
+	"gameplay.h"
+
+1647014640 source:d:\proyectos\mis proyectos\snake\src\menu.cpp
+	"menu.h"
+
+1647014640 d:\proyectos\mis proyectos\snake\src\menu.h
+	<SDL.h>
+
+1647754466 d:\proyectos\mis proyectos\snake\src\board.h
+	"cfg.h"
+	"drawn.h"
+
