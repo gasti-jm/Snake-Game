@@ -1,4 +1,8 @@
-# Snake-Game
+# Snake Game
+<a target="_blank"><img src="https://img.shields.io/badge/Build%20for-Windows-43ca1f.svg"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Made%20in-Code::Blocks-e92727.svg"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-e98227.svg"></img></a>
+
 Simple snake game in C++ with SDL2
 
 # How to compile
